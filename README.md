@@ -1,0 +1,2 @@
+# videopoint
+kurs django
